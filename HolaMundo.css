@@ -1,13 +1,8 @@
-<html>
-<head>
+h1 {
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Éste es el título de la página</title>
+	color: red;
+}
 
-</head>
-<body>
-
-Hola Mundo
-
-</body>
-</html>
+P{
+	color:green;
+}
